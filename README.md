@@ -13,15 +13,15 @@ Images of roo
 
 
 ### rooLove
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooLove.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooLove.gif" width="130" height="130">
 
 
 ### rooHacker
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooHacker.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooHacker.gif" width="130" height="130">
 
 
 ### rooClap
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooClap.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooClap.gif" width="130" height="130">
 
 
 ### rooThink
@@ -37,7 +37,7 @@ Images of roo
 
 
 ### rooSnap
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooSnap.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooSnap.gif" width="130" height="130">
 
 
 ### rooPopcorn
@@ -49,7 +49,7 @@ Images of roo
 
 
 ### rooFight
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooFight.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooFight.gif" width="130" height="130">
 
 
 ### rooEZSip
@@ -77,7 +77,7 @@ Images of roo
 
 
 ### rooPopcorn
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooPopcorn.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooPopcorn.gif" width="130" height="130">
 
 
 ### rooAww
@@ -105,4 +105,4 @@ Images of roo
 
 
 ### rooCool
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooCool.png" width="130" height="130">
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooCool.gif" width="130" height="130">

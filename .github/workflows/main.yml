@@ -1,0 +1,21 @@
+name: Update README.md
+
+on:
+  push:
+    branches: [ main ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+    
+    - name: Update
+      run: python ci.py
+
+    - name: push
+      uses: actions-x/commit@v2
+      with:
+        email: rooci@localhost
+        name: roo CI

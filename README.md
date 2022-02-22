@@ -104,6 +104,10 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooFight.gif" width="130" height="130">
 
 
+### rooDevil
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDevil.png" width="130" height="130">
+
+
 ### rooReerun
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooReerun.gif" width="130" height="130">
 

@@ -12,3 +12,7 @@ for roo in os.listdir("./roos"):
 
 with open("README.md", "w") as f:
     f.write(t)
+    
+with open("roos.txt", "w+") as f:
+    for roo in os.listdir("./roos"):
+        f.write(roo + "\n")

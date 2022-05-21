@@ -15,7 +15,7 @@ jobs:
       run: python ci.py
 
     - name: push
-      uses: actions-x/commit@v2
+      uses: actions-x/commit@v6
       with:
         email: rooci@localhost
         name: roo CI

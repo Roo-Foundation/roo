@@ -216,10 +216,6 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooThink.png" width="130" height="130">
 
 
-### rooDerp
-<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDerp.webp" width="130" height="130">
-
-
 ### rooGoingevil
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGoingevil.gif" width="130" height="130">
 

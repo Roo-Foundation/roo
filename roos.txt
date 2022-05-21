@@ -51,7 +51,6 @@ rooPiggyBack.png
 rooThanos.gif
 rooFightr.gif
 rooThink.png
-rooDerp.webp
 rooGoingevil.gif
 rooBulli.png
 rooChainsaw.png

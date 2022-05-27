@@ -24,6 +24,10 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooCop.png" width="130" height="130">
 
 
+### rooDuckDance
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDuckDance.gif" width="130" height="130">
+
+
 ### rooDab
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDab.png" width="130" height="130">
 
@@ -36,12 +40,20 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGrimReaper.png" width="130" height="130">
 
 
+### rooDuckCake
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDuckCake.png" width="130" height="130">
+
+
 ### rooRee
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooRee.png" width="130" height="130">
 
 
 ### rooPopcorn
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooPopcorn.gif" width="130" height="130">
+
+
+### rooDuckZoom
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDuckZoom.gif" width="130" height="130">
 
 
 ### rooBrynn
@@ -76,8 +88,20 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooSee.png" width="130" height="130">
 
 
+### rooGlueSlam
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGlueSlam.gif" width="130" height="130">
+
+
 ### rooEZ
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooEZ.png" width="130" height="130">
+
+
+### rooFish
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooFish.png" width="130" height="130">
+
+
+### rooDoubt
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDoubt.png" width="130" height="130">
 
 
 ### rooSnap
@@ -92,8 +116,16 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooB.gif" width="130" height="130">
 
 
+### rooPetPat
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooPetPat.gif" width="130" height="130">
+
+
 ### rooFiretruck
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooFiretruck.gif" width="130" height="130">
+
+
+### rooGlueEat
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGlueEat.png" width="130" height="130">
 
 
 ### rooKaya
@@ -140,6 +172,10 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooCum.png" width="130" height="130">
 
 
+### rooChristmas
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooChristmas.gif" width="130" height="130">
+
+
 ### rooA
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooA.png" width="130" height="130">
 
@@ -184,6 +220,10 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooReerun.gif" width="130" height="130">
 
 
+### rooDuckChase
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDuckChase.gif" width="130" height="130">
+
+
 ### rooAww
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooAww.png" width="130" height="130">
 
@@ -192,8 +232,16 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooHugpepe.png" width="130" height="130">
 
 
+### rooDuckVanish
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooDuckVanish.gif" width="130" height="130">
+
+
 ### rooLurk
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooLurk.png" width="130" height="130">
+
+
+### rooGreedy
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGreedy.png" width="130" height="130">
 
 
 ### rooSellout
@@ -228,8 +276,16 @@ Images of roo
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooChainsaw.png" width="130" height="130">
 
 
+### rooLaserEye
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooLaserEye.png" width="130" height="130">
+
+
 ### rooBlank
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooBlank.png" width="130" height="130">
+
+
+### rooSuperHappy
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooSuperHappy.gif" width="130" height="130">
 
 
 ### rooBread
@@ -266,6 +322,10 @@ Images of roo
 
 ### rooChuu
 <img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooChuu.gif" width="130" height="130">
+
+
+### rooGlitch
+<img src="https://raw.githubusercontent.com/Roo-Foundation/roo/main/roos/rooGlitch.gif" width="130" height="130">
 
 
 ### rooAngel
